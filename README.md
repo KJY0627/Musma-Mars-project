@@ -10,16 +10,16 @@ This platform has 4 menu; 1. Home 2. Equipment 3. Device 4. Admin
 
 # MU001-Super admin;For managers
 
-1. Able to access every functions of MU005
+1. Able to access every function of MU005
 2. Matching and unmatching of devices and equipments
-3. Edit equipments and devices details
-4. Add equipments' repair history informations, add devices' matching history with equipments
-5. Register equipments
+3. Edit equipment informaion and devices details
+4. Add equipments' repair history information, add devices' matching history with equipments
+5. Register equipment
 
-# MU005-Viewrs;For general employees
+# MU005-Viewers;For general employees
 
-1. Monitoring equipments in a satelite map
-2. Monitoring weather for the electronics conditions
+1. Monitoring equipments in a satellite map
+2. Monitoring weather for the electronic conditions
 3. Listing equipments and devices sorting by options
 
 https://user-images.githubusercontent.com/100059297/200055497-42d49032-cb73-43ec-b1a0-edaa887338df.mp4
